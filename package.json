@@ -1,0 +1,23 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "following a tuto for web backend",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RobertRiae/intro-to-backend.git"
+  },
+  "author": "Riae",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RobertRiae/intro-to-backend/issues"
+  },
+  "homepage": "https://github.com/RobertRiae/intro-to-backend#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
